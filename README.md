@@ -17,8 +17,7 @@ A simple **Snake Game** built in **Java** using **Swing**. Control the snake, ea
 ## 🛠 How to Run
 1. Make sure you have **Java (JDK 8 or later)** installed.
 2. Clone this repository:
-   ```sh
-   git clone https://github.com//Snake-Game.git
+   https://github.com/Hammad102980/Snake-Game.git
 3.Navigate to the project folder:
 cd Snake-Game
 4.Compile the game:
